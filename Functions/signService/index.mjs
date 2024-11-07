@@ -8,8 +8,8 @@ export const handler = async (event, context) => {
   let urlImage;
   let codingUrlImage;
 
-  const clientSecret = 'Nx_5AvQ2oGqxR2ZaujcK_PFTRLE=';
-  const apiKey = 'AIzaSyDs8OTggHYGLRc_pJbUzN1NVSwjrOx9wYg';
+  const clientSecret = 'GOOGLE_MAPS_CLIENT_SECRET';
+  const apiKey = 'GOOGLE_MAPS_API_KEY';
 
   function removeWebSafe(safeEncodedString) {
     return safeEncodedString.replace(/-/g, '+').replace(/_/g, '/');

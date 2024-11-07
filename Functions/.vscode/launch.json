@@ -1,0 +1,124 @@
+{
+    "configurations": [
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "postPredictionCoodinatesWithPlusCode:index.handler (nodejs20.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "${workspaceFolder}/postPredictionCoodinatesWithPlusCode",
+                "lambdaHandler": "index.handler"
+            },
+            "lambda": {
+                "runtime": "nodejs20.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        },
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "postCrimeCoordinatesWithPlusCode:index.handler (nodejs20.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "${workspaceFolder}/postCrimeCoordinatesWithPlusCode",
+                "lambdaHandler": "index.handler"
+            },
+            "lambda": {
+                "runtime": "nodejs20.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        },
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "signService:index.handler (nodejs20.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "${workspaceFolder}/signService",
+                "lambdaHandler": "index.handler"
+            },
+            "lambda": {
+                "runtime": "nodejs20.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        },
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "postReportFunction:index.handler (nodejs20.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "${workspaceFolder}/postReportFunction",
+                "lambdaHandler": "index.handler"
+            },
+            "lambda": {
+                "runtime": "nodejs20.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        },
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "postCrimeCoordinatesWithPlusCode:index.handler (nodejs20.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "${workspaceFolder}/postCrimeCoordinatesWithPlusCode",
+                "lambdaHandler": "index.handler"
+            },
+            "lambda": {
+                "runtime": "nodejs20.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        },
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "getReportsFunction:index.handler (nodejs20.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "${workspaceFolder}/getReportsFunction",
+                "lambdaHandler": "index.handler"
+            },
+            "lambda": {
+                "runtime": "nodejs20.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        },
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "getPredictionCoodinatesWithPlusCode:index.handler (nodejs20.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "${workspaceFolder}/getPredictionCoodinatesWithPlusCode",
+                "lambdaHandler": "index.handler"
+            },
+            "lambda": {
+                "runtime": "nodejs20.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        },
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "getCrimeCoordinatesWithPlusCode:index.handler (nodejs20.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "${workspaceFolder}/getCrimeCoordinatesWithPlusCode",
+                "lambdaHandler": "index.handler"
+            },
+            "lambda": {
+                "runtime": "nodejs20.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        }
+    ]
+}

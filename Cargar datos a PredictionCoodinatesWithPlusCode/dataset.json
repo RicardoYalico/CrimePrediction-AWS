@@ -1,0 +1,3116 @@
+[
+    {
+        "lat": -12.066499999999978,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.99978107213974,
+        "zonas_seguras": 0.00021890958305448294,
+        "plus_code": "WWM6"
+    },
+    {
+        "lat": -12.066499999999978,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9990717172622681,
+        "zonas_seguras": 0.0009282221435569227,
+        "plus_code": "WWM6"
+    },
+    {
+        "lat": -12.066499999999978,
+        "lng": -77.09399999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9815455079078674,
+        "zonas_seguras": 0.018454506993293762,
+        "plus_code": "WWM6"
+    },
+    {
+        "lat": -12.066499999999978,
+        "lng": -77.10249999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8763362765312195,
+        "zonas_seguras": 0.12366370856761932,
+        "plus_code": "WWM4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.066499999999978,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8763362765312195,
+        "zonas_seguras": 0.12366370856761932,
+        "plus_code": "WWM6"
+    },
+    {
+        "lat": -12.066999999999979,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999662637710571,
+        "zonas_seguras": 3.371467755641788e-05,
+        "plus_code": "WVMX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.066999999999979,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9978283047676086,
+        "zonas_seguras": 0.0021716218907386065,
+        "plus_code": "WWM6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.066999999999979,
+        "lng": -77.08949999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9958107471466064,
+        "zonas_seguras": 0.004189271945506334,
+        "plus_code": "WWM4",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.066999999999979,
+        "lng": -77.09299999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8401859998703003,
+        "zonas_seguras": 0.1598140001296997,
+        "plus_code": "WVMW"
+    },
+    {
+        "lat": -12.066999999999979,
+        "lng": -77.09499999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9959841966629028,
+        "zonas_seguras": 0.004015781916677952,
+        "plus_code": "WWM6",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.06749999999998,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9998922348022461,
+        "zonas_seguras": 0.00010773431858979166,
+        "plus_code": "WWM4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06749999999998,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999970197677612,
+        "zonas_seguras": 2.98798545372847e-06,
+        "plus_code": "WWM5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.06749999999998,
+        "lng": -77.08949999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9993007183074951,
+        "zonas_seguras": 0.0006993225542828441,
+        "plus_code": "WWM6"
+    },
+    {
+        "lat": -12.06749999999998,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8032380938529968,
+        "zonas_seguras": 0.19676190614700317,
+        "plus_code": "WWM4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06749999999998,
+        "lng": -77.09299999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.576759934425354,
+        "zonas_seguras": 0.4232400059700012,
+        "plus_code": "WWM4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06749999999998,
+        "lng": -77.09499999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.979544460773468,
+        "zonas_seguras": 0.020455604419112206,
+        "plus_code": "WWJ6"
+    },
+    {
+        "lat": -12.06749999999998,
+        "lng": -77.10249999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999868869781494,
+        "zonas_seguras": 1.3139470866008196e-05,
+        "plus_code": "WWM6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06799999999998,
+        "lng": -77.08949999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9626570343971252,
+        "zonas_seguras": 0.037342894822359085,
+        "plus_code": "WWJ4",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.06799999999998,
+        "lng": -77.08999999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9964092373847961,
+        "zonas_seguras": 0.0035907833371311426,
+        "plus_code": "WWJ6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06799999999998,
+        "lng": -77.09499999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999690055847168,
+        "zonas_seguras": 3.10114337480627e-05,
+        "plus_code": "WWJ4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06849999999998,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9848346710205078,
+        "zonas_seguras": 0.015165301039814949,
+        "plus_code": "WVMX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06849999999998,
+        "lng": -77.08949999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9971030354499817,
+        "zonas_seguras": 0.002896965481340885,
+        "plus_code": "WWJ6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06849999999998,
+        "lng": -77.08999999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9414377808570862,
+        "zonas_seguras": 0.05856219306588173,
+        "plus_code": "WWJ6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06849999999998,
+        "lng": -77.09499999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9995067119598389,
+        "zonas_seguras": 0.0004933282034471631,
+        "plus_code": "WWJ3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06849999999998,
+        "lng": -77.09749999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8651173114776611,
+        "zonas_seguras": 0.13488271832466125,
+        "plus_code": "WWJ2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.06849999999998,
+        "lng": -77.09899999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9559217095375061,
+        "zonas_seguras": 0.04407830536365509,
+        "plus_code": "WWJ2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.06849999999998,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9559217095375061,
+        "zonas_seguras": 0.04407830536365509,
+        "plus_code": "WWJ6",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.06849999999998,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 1.5548407006349407e-09,
+        "plus_code": "WVJW",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.06849999999998,
+        "lng": -77.10549999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9993457198143005,
+        "zonas_seguras": 0.0006542933406308293,
+        "plus_code": "WVJV",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.068999999999981,
+        "lng": -77.08949999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7820204496383667,
+        "zonas_seguras": 0.2179795205593109,
+        "plus_code": "WWJ2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.068999999999981,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9832295775413513,
+        "zonas_seguras": 0.01677037961781025,
+        "plus_code": "WWJ5"
+    },
+    {
+        "lat": -12.068999999999981,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9973099231719971,
+        "zonas_seguras": 0.002690073335543275,
+        "plus_code": "WWJ6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.068999999999981,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9663853049278259,
+        "zonas_seguras": 0.03361465409398079,
+        "plus_code": "WWJ3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.068999999999981,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9962371587753296,
+        "zonas_seguras": 0.0037628677673637867,
+        "plus_code": "WVJX",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.068999999999981,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999442100524902,
+        "zonas_seguras": 5.573228554567322e-05,
+        "plus_code": "WWJ2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.068999999999981,
+        "lng": -77.10549999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9993457198143005,
+        "zonas_seguras": 0.0006542933406308293,
+        "plus_code": "WVJV",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.069499999999982,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7185390591621399,
+        "zonas_seguras": 0.2814609706401825,
+        "plus_code": "WVJW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.069499999999982,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9960376024246216,
+        "zonas_seguras": 0.00396242830902338,
+        "plus_code": "WWJ3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.069499999999982,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6252020001411438,
+        "zonas_seguras": 0.3747980296611786,
+        "plus_code": "WVJW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.069499999999982,
+        "lng": -77.10399999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7004891037940979,
+        "zonas_seguras": 0.2995109260082245,
+        "plus_code": "WWJ5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.069999999999983,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.508855938911438,
+        "zonas_seguras": 0.4911440312862396,
+        "plus_code": "WWJ5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.069999999999983,
+        "lng": -77.09099999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.508855938911438,
+        "zonas_seguras": 0.4911440312862396,
+        "plus_code": "WVJW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.069999999999983,
+        "lng": -77.09249999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 9.710389825556831e-09,
+        "plus_code": "WWH6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.069999999999983,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.926736056804657,
+        "zonas_seguras": 0.0732639878988266,
+        "plus_code": "WVJW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.069999999999983,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.999998927116394,
+        "zonas_seguras": 1.0925110700554796e-06,
+        "plus_code": "WWJ5",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.999958872795105,
+        "zonas_seguras": 4.1133043851004913e-05,
+        "plus_code": "WWH3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9095751643180847,
+        "zonas_seguras": 0.0904248058795929,
+        "plus_code": "WWH3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.09699999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5990985631942749,
+        "zonas_seguras": 0.4009014368057251,
+        "plus_code": "WVJW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9464924931526184,
+        "zonas_seguras": 0.05350745841860771,
+        "plus_code": "WVHR",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.10249999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7723346948623657,
+        "zonas_seguras": 0.22766530513763428,
+        "plus_code": "WVHW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.612220287322998,
+        "zonas_seguras": 0.38777971267700195,
+        "plus_code": "WVHX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.10349999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9851194024085999,
+        "zonas_seguras": 0.014880584552884102,
+        "plus_code": "WVHX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5614473223686218,
+        "zonas_seguras": 0.43855270743370056,
+        "plus_code": "WVHR",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.1075,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.622101366519928,
+        "zonas_seguras": 0.3778986632823944,
+        "plus_code": "WVHW",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.070499999999983,
+        "lng": -77.108,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9392217993736267,
+        "zonas_seguras": 0.060778189450502396,
+        "plus_code": "WVHW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9880405068397522,
+        "zonas_seguras": 0.011959497816860676,
+        "plus_code": "WWH5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8897210955619812,
+        "zonas_seguras": 0.11027892678976059,
+        "plus_code": "WWH6",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9887987971305847,
+        "zonas_seguras": 0.011201202869415283,
+        "plus_code": "WWH6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999955892562866,
+        "zonas_seguras": 4.457053819351131e-06,
+        "plus_code": "WWH3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8554660677909851,
+        "zonas_seguras": 0.1445338875055313,
+        "plus_code": "WVHX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.10349999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.991654634475708,
+        "zonas_seguras": 0.008345294743776321,
+        "plus_code": "WVHW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.10399999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.991654634475708,
+        "zonas_seguras": 0.008345294743776321,
+        "plus_code": "WVHV",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.1065,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9609860777854919,
+        "zonas_seguras": 0.039013877511024475,
+        "plus_code": "WVHW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.107,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9728378057479858,
+        "zonas_seguras": 0.027162227779626846,
+        "plus_code": "WVHR",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.070999999999984,
+        "lng": -77.1075,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6131725907325745,
+        "zonas_seguras": 0.38682740926742554,
+        "plus_code": "WVHV",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9852338433265686,
+        "zonas_seguras": 0.014766208827495575,
+        "plus_code": "WWH6",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.08999999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 1.5731310351596584e-11,
+        "plus_code": "WWH5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999998807907104,
+        "zonas_seguras": 1.7535458596285025e-07,
+        "plus_code": "WWH6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9685465693473816,
+        "zonas_seguras": 0.031453441828489304,
+        "plus_code": "WWH3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.625001072883606,
+        "zonas_seguras": 0.3749989867210388,
+        "plus_code": "WWH2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5542792677879333,
+        "zonas_seguras": 0.44572073221206665,
+        "plus_code": "WWH2"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.10399999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7222751379013062,
+        "zonas_seguras": 0.27772489190101624,
+        "plus_code": "WVHX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9994470477104187,
+        "zonas_seguras": 0.0005529694026336074,
+        "plus_code": "WVHW",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.10549999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9998881816864014,
+        "zonas_seguras": 0.00011185417679371312,
+        "plus_code": "WVHW",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.071499999999984,
+        "lng": -77.106,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9486157298088074,
+        "zonas_seguras": 0.05138424038887024,
+        "plus_code": "WVHX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.071999999999985,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9433743953704834,
+        "zonas_seguras": 0.056625623255968094,
+        "plus_code": "WVHV"
+    },
+    {
+        "lat": -12.071999999999985,
+        "lng": -77.09499999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8483060002326965,
+        "zonas_seguras": 0.15169395506381989,
+        "plus_code": "WVHV",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.071999999999985,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9432636499404907,
+        "zonas_seguras": 0.05673632398247719,
+        "plus_code": "WWH2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.071999999999985,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6825814843177795,
+        "zonas_seguras": 0.31741851568222046,
+        "plus_code": "WWH5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.071999999999985,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999587535858154,
+        "zonas_seguras": 4.1238970879931e-05,
+        "plus_code": "WWH4",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.072499999999986,
+        "lng": -77.09899999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9750640988349915,
+        "zonas_seguras": 0.024935893714427948,
+        "plus_code": "WVHX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.072499999999986,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5765233039855957,
+        "zonas_seguras": 0.4234766960144043,
+        "plus_code": "WVHX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.072499999999986,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8896279335021973,
+        "zonas_seguras": 0.11037204414606094,
+        "plus_code": "WVHX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.072499999999986,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9966711401939392,
+        "zonas_seguras": 0.0033288667909801006,
+        "plus_code": "WVHV",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.072499999999986,
+        "lng": -77.10199999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9804425835609436,
+        "zonas_seguras": 0.019557390362024307,
+        "plus_code": "WWG5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.072499999999986,
+        "lng": -77.10349999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7298969030380249,
+        "zonas_seguras": 0.2701030671596527,
+        "plus_code": "WWH2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.072499999999986,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9995403289794922,
+        "zonas_seguras": 0.0004597450897563249,
+        "plus_code": "WWG2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.072499999999986,
+        "lng": -77.10549999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999910593032837,
+        "zonas_seguras": 8.981167411548086e-06,
+        "plus_code": "WVHX",
+        "distrito": "La Perla"
+    },
+    {
+        "lat": -12.072999999999986,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9834745526313782,
+        "zonas_seguras": 0.016525432467460632,
+        "plus_code": "WVHW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.072999999999986,
+        "lng": -77.09399999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9957090616226196,
+        "zonas_seguras": 0.004290957469493151,
+        "plus_code": "WVHW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.072999999999986,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8493918776512146,
+        "zonas_seguras": 0.1506081372499466,
+        "plus_code": "WWG5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.072999999999986,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9998379945755005,
+        "zonas_seguras": 0.00016193922783713788,
+        "plus_code": "WWG4",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.072999999999986,
+        "lng": -77.10399999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9988436698913574,
+        "zonas_seguras": 0.001156336977146566,
+        "plus_code": "WWG3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073499999999987,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999397993087769,
+        "zonas_seguras": 6.0207628848729655e-05,
+        "plus_code": "WVGW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073499999999987,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999397993087769,
+        "zonas_seguras": 6.0207628848729655e-05,
+        "plus_code": "WWG2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073499999999987,
+        "lng": -77.09399999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9988663196563721,
+        "zonas_seguras": 0.001133680110797286,
+        "plus_code": "WVGW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073499999999987,
+        "lng": -77.09549999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5335626006126404,
+        "zonas_seguras": 0.46643736958503723,
+        "plus_code": "WWG5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073499999999987,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.991923987865448,
+        "zonas_seguras": 0.008075975812971592,
+        "plus_code": "WWG4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073499999999987,
+        "lng": -77.10199999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9979032278060913,
+        "zonas_seguras": 0.0020967316813766956,
+        "plus_code": "WVGW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073499999999987,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9969056248664856,
+        "zonas_seguras": 0.0030944133177399635,
+        "plus_code": "WVGX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073499999999987,
+        "lng": -77.10399999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999980926513672,
+        "zonas_seguras": 1.9456922473182203e-06,
+        "plus_code": "WWG6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8372060060501099,
+        "zonas_seguras": 0.16279396414756775,
+        "plus_code": "WVGW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7543184757232666,
+        "zonas_seguras": 0.2456815242767334,
+        "plus_code": "WWG6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.801796019077301,
+        "zonas_seguras": 0.19820402562618256,
+        "plus_code": "WWG5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.09549999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9658761024475098,
+        "zonas_seguras": 0.03412391617894173,
+        "plus_code": "WWG3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9658761024475098,
+        "zonas_seguras": 0.03412391617894173,
+        "plus_code": "WWG3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9695500135421753,
+        "zonas_seguras": 0.03044998086988926,
+        "plus_code": "WWG2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9988383650779724,
+        "zonas_seguras": 0.0011616793926805258,
+        "plus_code": "WVGX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.10199999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8395140171051025,
+        "zonas_seguras": 0.16048601269721985,
+        "plus_code": "WVGW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.10249999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9985421895980835,
+        "zonas_seguras": 0.0014578187838196754,
+        "plus_code": "WVGX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.073999999999987,
+        "lng": -77.10349999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9131470322608948,
+        "zonas_seguras": 0.08685297518968582,
+        "plus_code": "WVGX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.074499999999988,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9987321496009827,
+        "zonas_seguras": 0.0012678444618359208,
+        "plus_code": "WVGX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.074499999999988,
+        "lng": -77.09549999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.585486888885498,
+        "zonas_seguras": 0.41451314091682434,
+        "plus_code": "WWG3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.074499999999988,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9992775321006775,
+        "zonas_seguras": 0.0007225271547213197,
+        "plus_code": "WWG6",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.074499999999988,
+        "lng": -77.09899999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9539383053779602,
+        "zonas_seguras": 0.04606175422668457,
+        "plus_code": "WWG3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.074499999999988,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9955488443374634,
+        "zonas_seguras": 0.004451206419616938,
+        "plus_code": "WWG2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.074499999999988,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.994706928730011,
+        "zonas_seguras": 0.0052930451929569244,
+        "plus_code": "WVGX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.074499999999988,
+        "lng": -77.10199999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5505737066268921,
+        "zonas_seguras": 0.4494262933731079,
+        "plus_code": "WVGV",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.074499999999988,
+        "lng": -77.106,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8760486245155334,
+        "zonas_seguras": 0.12395139038562775,
+        "plus_code": "WVGX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.074999999999989,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9314435124397278,
+        "zonas_seguras": 0.06855656206607819,
+        "plus_code": "WWG4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.074999999999989,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.752173125743866,
+        "zonas_seguras": 0.24782687425613403,
+        "plus_code": "WVGX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.074999999999989,
+        "lng": -77.09449999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7853223085403442,
+        "zonas_seguras": 0.21467770636081696,
+        "plus_code": "WWG6",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.074999999999989,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8293176889419556,
+        "zonas_seguras": 0.17068235576152802,
+        "plus_code": "WWG5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.074999999999989,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.530159592628479,
+        "zonas_seguras": 0.4698403775691986,
+        "plus_code": "WVFR",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07549999999999,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5108675360679626,
+        "zonas_seguras": 0.48913246393203735,
+        "plus_code": "WVFW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07549999999999,
+        "lng": -77.09299999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7011780142784119,
+        "zonas_seguras": 0.29882195591926575,
+        "plus_code": "WWF3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.07549999999999,
+        "lng": -77.09699999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9730174541473389,
+        "zonas_seguras": 0.026982571929693222,
+        "plus_code": "WVGX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07549999999999,
+        "lng": -77.108,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6019567251205444,
+        "zonas_seguras": 0.39804330468177795,
+        "plus_code": "WWF5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07599999999999,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9354817271232605,
+        "zonas_seguras": 0.06451820582151413,
+        "plus_code": "WWF4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07599999999999,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7770681977272034,
+        "zonas_seguras": 0.2229318469762802,
+        "plus_code": "WWF3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.07649999999999,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 1.0211184111805216e-12,
+        "plus_code": "WVFX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.07649999999999,
+        "lng": -77.09749999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9945188164710999,
+        "zonas_seguras": 0.005481140222400427,
+        "plus_code": "WWF5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07649999999999,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9995408058166504,
+        "zonas_seguras": 0.0004592807963490486,
+        "plus_code": "WWF2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07649999999999,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9997190833091736,
+        "zonas_seguras": 0.00028094800654798746,
+        "plus_code": "WWF2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07649999999999,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9940781593322754,
+        "zonas_seguras": 0.0059218211099505424,
+        "plus_code": "WWF2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.07649999999999,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9813512563705444,
+        "zonas_seguras": 0.01864873804152012,
+        "plus_code": "WVFX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07649999999999,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9400097131729126,
+        "zonas_seguras": 0.05999026075005531,
+        "plus_code": "WVFX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.07649999999999,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9975679516792297,
+        "zonas_seguras": 0.002432010369375348,
+        "plus_code": "WWF5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.076999999999991,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 1.0211184111805216e-12,
+        "plus_code": "WVFW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.076999999999991,
+        "lng": -77.09399999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9870657920837402,
+        "zonas_seguras": 0.012934274971485138,
+        "plus_code": "WWF3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.076999999999991,
+        "lng": -77.09549999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.979312539100647,
+        "zonas_seguras": 0.020687507465481758,
+        "plus_code": "WWF2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.076999999999991,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.986806333065033,
+        "zonas_seguras": 0.013193636201322079,
+        "plus_code": "WWF4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.076999999999991,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9958791732788086,
+        "zonas_seguras": 0.004120773635804653,
+        "plus_code": "WWF3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.076999999999991,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9848157167434692,
+        "zonas_seguras": 0.015184300020337105,
+        "plus_code": "WWF3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.076999999999991,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6570260524749756,
+        "zonas_seguras": 0.3429739773273468,
+        "plus_code": "WWF2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.076999999999991,
+        "lng": -77.10199999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7006264328956604,
+        "zonas_seguras": 0.2993735671043396,
+        "plus_code": "WWF2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.076999999999991,
+        "lng": -77.10449999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9350079298019409,
+        "zonas_seguras": 0.0649920403957367,
+        "plus_code": "WVFX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8808387517929077,
+        "zonas_seguras": 0.1191612184047699,
+        "plus_code": "WVFX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.09549999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8151420950889587,
+        "zonas_seguras": 0.18485789000988007,
+        "plus_code": "WWF2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9980071187019348,
+        "zonas_seguras": 0.0019928584806621075,
+        "plus_code": "WVFW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9971922039985657,
+        "zonas_seguras": 0.002807837212458253,
+        "plus_code": "WWF5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9701177477836609,
+        "zonas_seguras": 0.029882213100790977,
+        "plus_code": "WWF3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5797411203384399,
+        "zonas_seguras": 0.42025884985923767,
+        "plus_code": "WWF3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 9.202979090600083e-13,
+        "plus_code": "WWF3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.764708399772644,
+        "zonas_seguras": 0.23529160022735596,
+        "plus_code": "WVFX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6526045799255371,
+        "zonas_seguras": 0.3473954200744629,
+        "plus_code": "WVFX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9314618706703186,
+        "zonas_seguras": 0.0685381069779396,
+        "plus_code": "WVFW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 0.0,
+        "plus_code": "WVFR",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.10549999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 2.6392393741119484e-35,
+        "plus_code": "WWC4",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077499999999992,
+        "lng": -77.108,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5389187932014465,
+        "zonas_seguras": 0.46108123660087585,
+        "plus_code": "WWC3"
+    },
+    {
+        "lat": -12.077999999999992,
+        "lng": -77.09299999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6396408677101135,
+        "zonas_seguras": 0.3603591322898865,
+        "plus_code": "WVFX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.077999999999992,
+        "lng": -77.09499999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9880991578102112,
+        "zonas_seguras": 0.01190085057169199,
+        "plus_code": "WVFV",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.077999999999992,
+        "lng": -77.09549999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9209371209144592,
+        "zonas_seguras": 0.07906284183263779,
+        "plus_code": "WVCR",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077999999999992,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9915434122085571,
+        "zonas_seguras": 0.008456571958959103,
+        "plus_code": "WWC6",
+        "distrito": "San Juan de Lurigancho"
+    },
+    {
+        "lat": -12.077999999999992,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9058803915977478,
+        "zonas_seguras": 0.0941196009516716,
+        "plus_code": "WWC4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.077999999999992,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999191761016846,
+        "zonas_seguras": 8.078201062744483e-05,
+        "plus_code": "WWC3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077999999999992,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999988079071045,
+        "zonas_seguras": 1.164548962151457e-06,
+        "plus_code": "WWC2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.077999999999992,
+        "lng": -77.1075,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8688641786575317,
+        "zonas_seguras": 0.13113583624362946,
+        "plus_code": "WWC2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.077999999999992,
+        "lng": -77.108,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999772310256958,
+        "zonas_seguras": 2.2784326574765146e-05,
+        "plus_code": "WVCX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.08999999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7072018384933472,
+        "zonas_seguras": 0.2927981913089752,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 1.025882157001945e-11,
+        "plus_code": "WVCR",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5436713099479675,
+        "zonas_seguras": 0.45632871985435486,
+        "plus_code": "WWC4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8230345249176025,
+        "zonas_seguras": 0.17696546018123627,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09249999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8812475800514221,
+        "zonas_seguras": 0.11875247955322266,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09299999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9322676658630371,
+        "zonas_seguras": 0.06773228943347931,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999998807907104,
+        "zonas_seguras": 8.803921502931189e-08,
+        "plus_code": "WWC3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09699999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.852353572845459,
+        "zonas_seguras": 0.1476464867591858,
+        "plus_code": "WWC3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09749999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8237963914871216,
+        "zonas_seguras": 0.1762036383152008,
+        "plus_code": "WWC3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9954323768615723,
+        "zonas_seguras": 0.004567611496895552,
+        "plus_code": "WWC2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9789310693740845,
+        "zonas_seguras": 0.021068943664431572,
+        "plus_code": "WWC2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8115653395652771,
+        "zonas_seguras": 0.1884346604347229,
+        "plus_code": "WVCV",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7482419610023499,
+        "zonas_seguras": 0.25175797939300537,
+        "plus_code": "WVCX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.10549999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9890449047088623,
+        "zonas_seguras": 0.010955133475363255,
+        "plus_code": "WVCV",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078499999999993,
+        "lng": -77.107,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 3.208560084289047e-09,
+        "plus_code": "WWC6",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.08949999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999997615814209,
+        "zonas_seguras": 2.051209406772614e-07,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.08999999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7072018384933472,
+        "zonas_seguras": 0.2927981913089752,
+        "plus_code": "WVCW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 1.025882157001945e-11,
+        "plus_code": "WWC5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09099999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9177905321121216,
+        "zonas_seguras": 0.08220946788787842,
+        "plus_code": "WWC6",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09299999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9795597791671753,
+        "zonas_seguras": 0.020440267398953438,
+        "plus_code": "WWC4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09349999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9932703375816345,
+        "zonas_seguras": 0.006729615852236748,
+        "plus_code": "WWC4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09399999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999998807907104,
+        "zonas_seguras": 9.998628058838221e-08,
+        "plus_code": "WWC3",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6280617117881775,
+        "zonas_seguras": 0.3719382584095001,
+        "plus_code": "WWC2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09699999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7839694619178772,
+        "zonas_seguras": 0.21603049337863922,
+        "plus_code": "WWC2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9944202303886414,
+        "zonas_seguras": 0.005579708144068718,
+        "plus_code": "WWC4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09899999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9891910552978516,
+        "zonas_seguras": 0.01080896146595478,
+        "plus_code": "WWC3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999957084655762,
+        "zonas_seguras": 4.275488208804745e-06,
+        "plus_code": "WWC2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9918609261512756,
+        "zonas_seguras": 0.008139154873788357,
+        "plus_code": "WVCV",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.999349057674408,
+        "zonas_seguras": 0.0006508766673505306,
+        "plus_code": "WVCX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9390662312507629,
+        "zonas_seguras": 0.06093374267220497,
+        "plus_code": "WWC2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7127528190612793,
+        "zonas_seguras": 0.2872471809387207,
+        "plus_code": "WVCW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.10549999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 1.4492539926382747e-13,
+        "plus_code": "WVCX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.106,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.999997615814209,
+        "zonas_seguras": 2.39966789195023e-06,
+        "plus_code": "WVCV",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.1065,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9836198091506958,
+        "zonas_seguras": 0.016380121931433678,
+        "plus_code": "WVCV",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.107,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 3.681579780617783e-13,
+        "plus_code": "WWC4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.1075,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 3.6772791910566656e-16,
+        "plus_code": "WVCV",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.078999999999994,
+        "lng": -77.108,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9979634284973145,
+        "zonas_seguras": 0.002036545192822814,
+        "plus_code": "WWC3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 2.421697564702896e-10,
+        "plus_code": "WVCR",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7141945362091064,
+        "zonas_seguras": 0.28580546379089355,
+        "plus_code": "WWC2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7479004263877869,
+        "zonas_seguras": 0.25209954380989075,
+        "plus_code": "WVCR",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.09249999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.999549925327301,
+        "zonas_seguras": 0.0004500939685385674,
+        "plus_code": "WWC5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.09349999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.833930253982544,
+        "zonas_seguras": 0.16606968641281128,
+        "plus_code": "WWC6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5563018321990967,
+        "zonas_seguras": 0.4436981976032257,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9969351291656494,
+        "zonas_seguras": 0.0030648678075522184,
+        "plus_code": "WWC5",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.09899999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9829328060150146,
+        "zonas_seguras": 0.01706722378730774,
+        "plus_code": "WWC2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9998773336410522,
+        "zonas_seguras": 0.0001226709719048813,
+        "plus_code": "WVCX",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9992645382881165,
+        "zonas_seguras": 0.0007354143890552223,
+        "plus_code": "WWC2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999732971191406,
+        "zonas_seguras": 2.6662455638870597e-05,
+        "plus_code": "WWC2",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9794988036155701,
+        "zonas_seguras": 0.0205011498183012,
+        "plus_code": "WVCX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.10399999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.981867790222168,
+        "zonas_seguras": 0.018132222816348076,
+        "plus_code": "WVCV",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.107,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9401912093162537,
+        "zonas_seguras": 0.059808794409036636,
+        "plus_code": "WVCW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.1075,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7120295166969299,
+        "zonas_seguras": 0.2879704236984253,
+        "plus_code": "WVCR",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079499999999994,
+        "lng": -77.108,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9997841715812683,
+        "zonas_seguras": 0.0002158024290110916,
+        "plus_code": "WVCR",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9960219264030457,
+        "zonas_seguras": 0.00397812994197011,
+        "plus_code": "WWC6",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 2.3685038305631956e-12,
+        "plus_code": "WWC6",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.890034019947052,
+        "zonas_seguras": 0.10996601730585098,
+        "plus_code": "WWC4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.09099999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7843465209007263,
+        "zonas_seguras": 0.2156534343957901,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9259020686149597,
+        "zonas_seguras": 0.07409791648387909,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.09249999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9977072477340698,
+        "zonas_seguras": 0.0022926880046725273,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.09299999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5736334323883057,
+        "zonas_seguras": 0.42636650800704956,
+        "plus_code": "WVCW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.09349999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6782103776931763,
+        "zonas_seguras": 0.32178959250450134,
+        "plus_code": "WWC5",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7999769449234009,
+        "zonas_seguras": 0.20002304017543793,
+        "plus_code": "WWC4",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.09749999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999855756759644,
+        "zonas_seguras": 1.4438918697123881e-05,
+        "plus_code": "WWC3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9573987126350403,
+        "zonas_seguras": 0.04260130226612091,
+        "plus_code": "WWC3",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9447470307350159,
+        "zonas_seguras": 0.05525302514433861,
+        "plus_code": "WVCW",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.10399999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9668606519699097,
+        "zonas_seguras": 0.033139318227767944,
+        "plus_code": "WWC2",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.10449999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9730597734451294,
+        "zonas_seguras": 0.02694023959338665,
+        "plus_code": "WVCX",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.999998927116394,
+        "zonas_seguras": 1.0427487495690002e-06,
+        "plus_code": "WVCR",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.1065,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8565257787704468,
+        "zonas_seguras": 0.1434742510318756,
+        "plus_code": "WVCW",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.079999999999995,
+        "lng": -77.108,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9982448816299438,
+        "zonas_seguras": 0.0017550947377458215,
+        "plus_code": "WW96",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9973946809768677,
+        "zonas_seguras": 0.0026053679175674915,
+        "plus_code": "WW96",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999998807907104,
+        "zonas_seguras": 1.6134713121118693e-07,
+        "plus_code": "WW94",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.08999999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9997265934944153,
+        "zonas_seguras": 0.00027340452652424574,
+        "plus_code": "WVCV",
+        "distrito": "San Juan de Lurigancho"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.09099999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9040224552154541,
+        "zonas_seguras": 0.09597757458686829,
+        "plus_code": "WW96",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9971731901168823,
+        "zonas_seguras": 0.0028267279267311096,
+        "plus_code": "WW93",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7027373909950256,
+        "zonas_seguras": 0.29726260900497437,
+        "plus_code": "WW95",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.09249999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.999990701675415,
+        "zonas_seguras": 9.32496004679706e-06,
+        "plus_code": "WW93",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.09299999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9980175495147705,
+        "zonas_seguras": 0.001982459332793951,
+        "plus_code": "WW95",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.09549999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9888467192649841,
+        "zonas_seguras": 0.011153308674693108,
+        "plus_code": "WW95",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9908560514450073,
+        "zonas_seguras": 0.009143928065896034,
+        "plus_code": "WW95",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 8.165617559078476e-25,
+        "plus_code": "WV9X",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.09749999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999855756759644,
+        "zonas_seguras": 1.4438918697123881e-05,
+        "plus_code": "WW93",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8986399173736572,
+        "zonas_seguras": 0.10136006027460098,
+        "plus_code": "WW93",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.10449999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8583764433860779,
+        "zonas_seguras": 0.14162354171276093,
+        "plus_code": "WV9V",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.106,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7415607571601868,
+        "zonas_seguras": 0.25843924283981323,
+        "plus_code": "WV9V",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.1065,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9083399772644043,
+        "zonas_seguras": 0.0916600301861763,
+        "plus_code": "WW93",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080499999999995,
+        "lng": -77.107,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9432876706123352,
+        "zonas_seguras": 0.05671239271759987,
+        "plus_code": "WV9V",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999730587005615,
+        "zonas_seguras": 2.6921812604996376e-05,
+        "plus_code": "WV9W",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.08949999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 9.831385902200645e-22,
+        "plus_code": "WW96",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.08999999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999788999557495,
+        "zonas_seguras": 2.114048766088672e-05,
+        "plus_code": "WW96",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999791383743286,
+        "zonas_seguras": 2.082455284835305e-05,
+        "plus_code": "WW93",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8550552725791931,
+        "zonas_seguras": 0.14494472742080688,
+        "plus_code": "WW92",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9806217551231384,
+        "zonas_seguras": 0.019378239288926125,
+        "plus_code": "WV9W",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.996894359588623,
+        "zonas_seguras": 0.0031056334264576435,
+        "plus_code": "WW96",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.10249999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9574503302574158,
+        "zonas_seguras": 0.04254971444606781,
+        "plus_code": "WV9X",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8654378652572632,
+        "zonas_seguras": 0.134562149643898,
+        "plus_code": "WW92",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.10499999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8583764433860779,
+        "zonas_seguras": 0.14162354171276093,
+        "plus_code": "WV9V",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.10549999999999,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6505409479141235,
+        "zonas_seguras": 0.3494590222835541,
+        "plus_code": "WV9R",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.107,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9661956429481506,
+        "zonas_seguras": 0.03380432724952698,
+        "plus_code": "WW96",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.080999999999996,
+        "lng": -77.1075,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9877701997756958,
+        "zonas_seguras": 0.0122297378256917,
+        "plus_code": "WV9W",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9879008531570435,
+        "zonas_seguras": 0.012099189683794975,
+        "plus_code": "WW96",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 4.2383675372516597e-14,
+        "plus_code": "WW96",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.08949999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999996423721313,
+        "zonas_seguras": 3.114694777650584e-07,
+        "plus_code": "WV9V",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.08999999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999788999557495,
+        "zonas_seguras": 2.114048766088672e-05,
+        "plus_code": "WW94",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9976218342781067,
+        "zonas_seguras": 0.0023782020434737206,
+        "plus_code": "WW95",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.09449999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6521396636962891,
+        "zonas_seguras": 0.3478603959083557,
+        "plus_code": "WW93"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.09599999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.992077648639679,
+        "zonas_seguras": 0.00792232807725668,
+        "plus_code": "WW96",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.09749999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7868679761886597,
+        "zonas_seguras": 0.21313205361366272,
+        "plus_code": "WW96",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8587437272071838,
+        "zonas_seguras": 0.14125631749629974,
+        "plus_code": "WW95",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7347869277000427,
+        "zonas_seguras": 0.26521313190460205,
+        "plus_code": "WW93",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081499999999997,
+        "lng": -77.10199999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7976319789886475,
+        "zonas_seguras": 0.20236797630786896,
+        "plus_code": "WW95",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.08999999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999788999557495,
+        "zonas_seguras": 2.114048766088672e-05,
+        "plus_code": "WW92",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.09149999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999994039535522,
+        "zonas_seguras": 6.504562861664454e-07,
+        "plus_code": "WV9X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8233372569084167,
+        "zonas_seguras": 0.17666271328926086,
+        "plus_code": "WV9X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.09249999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7989095449447632,
+        "zonas_seguras": 0.20109041035175323,
+        "plus_code": "WW92"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.09399999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9432104229927063,
+        "zonas_seguras": 0.05678952857851982,
+        "plus_code": "WW95",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.09449999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9802786111831665,
+        "zonas_seguras": 0.019721321761608124,
+        "plus_code": "WW94",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.09499999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.935431182384491,
+        "zonas_seguras": 0.06456886976957321,
+        "plus_code": "WV9X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9997712969779968,
+        "zonas_seguras": 0.0002286622766405344,
+        "plus_code": "WW94",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.09899999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.999969482421875,
+        "zonas_seguras": 3.05379435303621e-05,
+        "plus_code": "WW94"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7127981185913086,
+        "zonas_seguras": 0.2872018814086914,
+        "plus_code": "WW92",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9993675351142883,
+        "zonas_seguras": 0.0006324333953671157,
+        "plus_code": "WW92",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7596582174301147,
+        "zonas_seguras": 0.24034181237220764,
+        "plus_code": "WW92",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.10199999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7004668712615967,
+        "zonas_seguras": 0.2995331287384033,
+        "plus_code": "WV9X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.081999999999997,
+        "lng": -77.10249999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9314250946044922,
+        "zonas_seguras": 0.0685749500989914,
+        "plus_code": "WV9X",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.082499999999998,
+        "lng": -77.09449999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.502421498298645,
+        "zonas_seguras": 0.49757853150367737,
+        "plus_code": "WV9X",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.082499999999998,
+        "lng": -77.09499999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8862555027008057,
+        "zonas_seguras": 0.11374446004629135,
+        "plus_code": "WW94",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.082499999999998,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6000745296478271,
+        "zonas_seguras": 0.39992547035217285,
+        "plus_code": "WW94",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.082499999999998,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9960780739784241,
+        "zonas_seguras": 0.003921929281204939,
+        "plus_code": "WW93",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.082499999999998,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9973714351654053,
+        "zonas_seguras": 0.002628599526360631,
+        "plus_code": "WW85",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.082499999999998,
+        "lng": -77.10349999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5523188710212708,
+        "zonas_seguras": 0.44768112897872925,
+        "plus_code": "WW85",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.972442626953125,
+        "zonas_seguras": 0.027557438239455223,
+        "plus_code": "WW92",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9991568326950073,
+        "zonas_seguras": 0.000843210204038769,
+        "plus_code": "WW85"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.09099999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 3.201217756465534e-17,
+        "plus_code": "WV9W",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.09199999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 1.0,
+        "zonas_seguras": 3.624784083999799e-10,
+        "plus_code": "WW86"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.09449999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9695690870285034,
+        "zonas_seguras": 0.030430886894464493,
+        "plus_code": "WW82"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.09749999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.646988570690155,
+        "zonas_seguras": 0.35301145911216736,
+        "plus_code": "WW82",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9857779741287231,
+        "zonas_seguras": 0.014222005382180214,
+        "plus_code": "WW85",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9319351315498352,
+        "zonas_seguras": 0.06806488335132599,
+        "plus_code": "WV8W",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.10299999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6723970174789429,
+        "zonas_seguras": 0.32760295271873474,
+        "plus_code": "WW84",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.082999999999998,
+        "lng": -77.10349999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7126035094261169,
+        "zonas_seguras": 0.28739649057388306,
+        "plus_code": "WV8X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.083499999999999,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999438524246216,
+        "zonas_seguras": 5.61527740501333e-05,
+        "plus_code": "WW83"
+    },
+    {
+        "lat": -12.083499999999999,
+        "lng": -77.09099999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9210878610610962,
+        "zonas_seguras": 0.07891208678483963,
+        "plus_code": "WV8W",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.083499999999999,
+        "lng": -77.09449999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9327138066291809,
+        "zonas_seguras": 0.06728623062372208,
+        "plus_code": "WW85",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.083499999999999,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.992245614528656,
+        "zonas_seguras": 0.007754354737699032,
+        "plus_code": "WW82",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.083499999999999,
+        "lng": -77.09899999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9924145340919495,
+        "zonas_seguras": 0.007585456594824791,
+        "plus_code": "WW82",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.083499999999999,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6115152835845947,
+        "zonas_seguras": 0.3884846866130829,
+        "plus_code": "WW84",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.084,
+        "lng": -77.08849999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5044997930526733,
+        "zonas_seguras": 0.49550020694732666,
+        "plus_code": "WW86",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.084,
+        "lng": -77.09399999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8516643643379211,
+        "zonas_seguras": 0.14833565056324005,
+        "plus_code": "WW84",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.084,
+        "lng": -77.09449999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9703798890113831,
+        "zonas_seguras": 0.02962014079093933,
+        "plus_code": "WW84",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.084,
+        "lng": -77.09649999999995,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9393073320388794,
+        "zonas_seguras": 0.06069272384047508,
+        "plus_code": "WW82",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.084,
+        "lng": -77.09849999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9995341300964355,
+        "zonas_seguras": 0.0004659200494643301,
+        "plus_code": "WW83",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.084,
+        "lng": -77.09899999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9731278419494629,
+        "zonas_seguras": 0.026872185990214348,
+        "plus_code": "WW82",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.084,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6779546141624451,
+        "zonas_seguras": 0.32204538583755493,
+        "plus_code": "WW85",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.084,
+        "lng": -77.10249999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9997712969779968,
+        "zonas_seguras": 0.0002286856179125607,
+        "plus_code": "WW82",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.08899999999991,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8803099989891052,
+        "zonas_seguras": 0.11969001591205597,
+        "plus_code": "WW84",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8836184740066528,
+        "zonas_seguras": 0.11638157814741135,
+        "plus_code": "WV8X",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.09099999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.6554381251335144,
+        "zonas_seguras": 0.3445618152618408,
+        "plus_code": "WW85",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.09349999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9928907155990601,
+        "zonas_seguras": 0.007109328173100948,
+        "plus_code": "WW86",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.09399999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9540838003158569,
+        "zonas_seguras": 0.04591619223356247,
+        "plus_code": "WW82",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.09449999999994,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9700509905815125,
+        "zonas_seguras": 0.029949024319648743,
+        "plus_code": "WW84",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.09799999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9495242238044739,
+        "zonas_seguras": 0.05047578737139702,
+        "plus_code": "WW82",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.805199146270752,
+        "zonas_seguras": 0.19480088353157043,
+        "plus_code": "WW75",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999794960021973,
+        "zonas_seguras": 2.0542158381431364e-05,
+        "plus_code": "WW84",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999507665634155,
+        "zonas_seguras": 4.9222231609746814e-05,
+        "plus_code": "WW74",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9998700618743896,
+        "zonas_seguras": 0.00012994642020203173,
+        "plus_code": "WV8X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.0845,
+        "lng": -77.10199999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9997935891151428,
+        "zonas_seguras": 0.00020644135656766593,
+        "plus_code": "WV8X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.09049999999992,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.7457826137542725,
+        "zonas_seguras": 0.25421738624572754,
+        "plus_code": "WV8X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.09249999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9970158338546753,
+        "zonas_seguras": 0.0029841805808246136,
+        "plus_code": "WV8X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.09299999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9910187721252441,
+        "zonas_seguras": 0.008981234394013882,
+        "plus_code": "WW75",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.09349999999993,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8666223287582397,
+        "zonas_seguras": 0.13337762653827667,
+        "plus_code": "WW74",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.09899999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999998807907104,
+        "zonas_seguras": 8.231992154605905e-08,
+        "plus_code": "WV7X",
+        "distrito": "Lima"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.09949999999996,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999997615814209,
+        "zonas_seguras": 2.2409439282000676e-07,
+        "plus_code": "WW72",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.09999999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999977350234985,
+        "zonas_seguras": 2.288261839566985e-06,
+        "plus_code": "WW72",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.10049999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9999854564666748,
+        "zonas_seguras": 1.458217047911603e-05,
+        "plus_code": "WW72",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.10099999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9881293177604675,
+        "zonas_seguras": 0.0118707325309515,
+        "plus_code": "WV7X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.10149999999997,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.9013152718544006,
+        "zonas_seguras": 0.09868475794792175,
+        "plus_code": "WV7X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.10199999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.5305255651473999,
+        "zonas_seguras": 0.4694744348526001,
+        "plus_code": "WV7X",
+        "distrito": "San Miguel"
+    },
+    {
+        "lat": -12.085,
+        "lng": -77.10249999999998,
+        "predicted_class": "zonas_inseguras",
+        "zonas_inseguras": 0.8026279211044312,
+        "zonas_seguras": 0.19737209379673004,
+        "plus_code": "WV7X",
+        "distrito": "San Miguel"
+    }
+]
